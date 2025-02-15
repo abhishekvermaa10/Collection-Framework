@@ -1,5 +1,0 @@
-Demo0 - Understanding drawbacks of Array
-Demo1 - Understanding List and its common methods
-Demo2 - Understanding Queue and Deque and its common methods
-Demo2 - Understanding Set and its common methods
-Demo3 - Understanding Map and its common methods
