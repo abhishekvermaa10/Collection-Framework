@@ -29,8 +29,10 @@
     Before diving into Collection Framework, ensure you're comfortable with the following concepts:
 <ul>
     <li>Java Basics</li>
-    <li>Exception Handling</li>
-    <li>Generics</li>
+    <li><a href="https://youtu.be/N6JikpffwO4"
+        target="_blank">Exception Handling</a></li>
+    <li><a href="https://youtu.be/_ii9lqr0IZw"
+        target="_blank">Generics</a></li>
 </ul>
 You can learn these topics from my YouTube channel through dedicated playlists.
 </p>
